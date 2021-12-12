@@ -26,7 +26,7 @@ install nodemon :
 
 We use nodemon so that we don't need to reconnect our server while making any change in node.js, it'll automatically reconnect our server (it’ll save our time while developing 😀)
 
-Now, inside of phpMyAdmin we'll create the app's database called todotaskmanager.
+Now, inside of phpMyAdmin we need to create the app's database called todotaskmanager (if need then, change your root password for MySQL database).
 
 Then, go to http://localhost:3000/
 
