@@ -1,3 +1,7 @@
+#### This project is inspired by --> ####
+##### YouTube: https://www.youtube.com/watch?v=npaLIQeH7xw&list=PLNgqgwaKyg-BgGHIsOJ2WsPnXuMm-ltKC&index=2&ab_channel=Girlwhocodes #####
+
+
 # Running the App Locally
 
 Download the XAMPP Control Panel →
